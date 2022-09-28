@@ -1,0 +1,46 @@
+کردستان:kordestan
+قم:qom
+هرمزگان:hormozgan
+خوزستان:khoozestan
+فارس:fars
+کرمانشاه:kermanshah
+بوت کمپ مپصا:tehran
+قزوین:qazvin
+قشم:hormozgan
+خراسان رضوی:khorasan razavi
+البرز:alborz
+آبادان:abadan
+یندرعباس:hormozgan
+انگلستان:england
+یزد:yazd
+karaj:alborz
+گرگان:golestan
+آمل:mazandaran
+اهواز:khoozestan
+تبریز:azarbayejan sharghi
+اصفهان:esfahan
+khorasan:khorasan razavi
+بهارستان:esfahan
+شیراز:fars
+کرج:alborz
+آذربایجان شرقی:azarbayejan sharghi
+سمنان:semnan
+سنندج:kordestan
+مازندران:mazandaran
+کرمان:kerman
+گلستان:golestan
+ساری:mazandaran
+مشهد:khorasan razavi
+زنجان:zanjan
+کاشان:esfahan
+نیشابور:khorasan razavi
+خراسان جنوبی:khorasan jonobi
+lahijan:gilan
+تهرن:tehran
+همدان:hamedan
+گیلان:gilan
+تهران:tehran
+بندرعباس:hormozgan
+نبریز:azarbayejan sharghi
+رشت:gilan
+اراک:markazi
